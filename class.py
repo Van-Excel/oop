@@ -1,12 +1,19 @@
 # classes and objects
 
+# https://favtutor.com/blogs/static-variable-python
+# https://www.youtube.com/watch?v=o2hny2QW0AI&list=PLOLrQ9Pn6caws6aPJoCD_UmWRE91257Xm&index=3
+
+#https://www.youtube.com/watch?v=Ej_02ICOIgs
+#https://www.youtube.com/watch?v=HTLu2DFOdTg&t=2667s
+
+# Intermediate Python
+# https://www.youtube.com/watch?v=HGOBQPFzWKo
+
 # implementing classes and objects from UML designs
 # static variables can be accessed by all objects and are constant
 #you access them using the class name
 # instance variables are peculiar to each instance so we use self
 # self deals with the instance of the class.
-# https://favtutor.com/blogs/static-variable-python
-
 
 class Car:
     
